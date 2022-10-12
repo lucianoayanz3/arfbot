@@ -69,4 +69,4 @@ cmd.execute(client, message, args)
 
     });
 
-client.login("MTAyMzMzMDg3OTU0MTYxNjY0MA.G7dKTi.gvinViP8E9P9NhjGPcs423ocnssZFpGFOFfbZM")
+client.login("de reinbow")
